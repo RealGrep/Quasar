@@ -1,0 +1,63 @@
+Just Enough Resources (JER)
+Owner: way2muchnoise
+URL: https://minecraft.curseforge.com/projects/just-enough-resources-jer
+
+All Rights Reserved https://minecraft.curseforge.com/projects/just-enough-resources-jer/license
+
+
+Biomes O' Plenty
+Owner: Glitchfiend
+Authors: Adubbz, Forstride
+URL: https://minecraft.curseforge.com/projects/biomes-o-plenty
+
+CC BY-NC-ND 4.0 https://minecraft.curseforge.com/projects/biomes-o-plenty/license
+You may use this mod in a modpack as long as you do not make money off of it (Adf.ly, exclusive access from donations, etc.), you give credit (Linking back to this thread), you do not make any changes to the mod aside from config files, and you follow all of the other terms listed in the license below.
+
+
+BiomeTweaker
+Owner: superckl
+
+"Don't Be a Jerk" non-commercial care-free license https://minecraft.curseforge.com/projects/biometweaker/license
+
+
+Roguelike Dungeons
+Owner: Greymerk
+URL: https://minecraft.curseforge.com/projects/roguelike-dungeons
+
+GPLv3 https://minecraft.curseforge.com/projects/roguelike-dungeons/license
+
+
+Cyberware
+Owner: Flaxbeard
+Mascot: Divineaspect
+Artist: Yulife
+URL: https://minecraft.curseforge.com/projects/cyberware
+
+MIT License https://minecraft.curseforge.com/projects/cyberware/license
+
+
+Nature's Compass
+Owner: ChaosTheDude
+URL: https://minecraft.curseforge.com/projects/natures-compass
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License https://minecraft.curseforge.com/projects/natures-compass/license
+Modpacks
+You can use this mod in your modpack as long as you do not claim to own the mod. I'd prefer if you provide a link to the mod's CurseForge page, but that's up to you.
+
+
+Custom NPCs
+Owner: Noppes
+URL: https://minecraft.curseforge.com/projects/custom-npcs
+
+CC BY-NC https://creativecommons.org/licenses/by-nc/3.0/
+If you want to use it for a modpack, include a link to this thread
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278956-custom-npcs
+
+
+Antique Atlas
+Owner: Created by Hunternif, now maintained and developed by Kenkron
+URL: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-antique-atlas https://github.com/Hunternif/AntiqueAtlas
+
+GPLv3 or later https://github.com/Hunternif/AntiqueAtlas/blob/master/LICENSE
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-antique-atlas
+You're free to play, use the source code of my mods, include them in mod packs as long as you give me credit (link to this post) and don't make money off it (adf.ly, custom paid downloads etc). Don't post individual mod downloads on other websites, link back to this post or CurseForge!

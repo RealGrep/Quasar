@@ -1,0 +1,953 @@
+CraftTweaker
+Owner: jaredlll08
+Original Author: stanhebben
+URL: https://minecraft.curseforge.com/projects/crafttweaker
+Based on MineTweaker3 by Stan Hebben
+
+https://minecraft.curseforge.com/projects/crafttweaker/license
+The source code is freely available in here, at GitHub. The mod itself may be redistributed in modpacks as long as these modpacks are distributed for free. No money can be made from the distribution of the mod.
+
+You may modify and redistribute your own customized version of MineTweaker as long as you mark your own version of MineTweaker as CUSTOMIZED (that is, put CUSTOMIZED in both the jar and mod name) and as long as you make the modified source code publicly available. Obviously, I cannot offer support for customized builds. Just be so kind to mention the original source and author (me) ;)
+
+ModTweaker
+Owner: jaredlll08
+URL: https://minecraft.curseforge.com/projects/modtweaker
+
+MIT License https://minecraft.curseforge.com/projects/modtweaker/license
+
+
+MTLib
+Owner: jaredlll08
+URL: https://minecraft.curseforge.com/projects/mtlib
+MIT License https://minecraft.curseforge.com/projects/mtlib/license
+
+
+DefaultOptions
+Owner: BlayTheNinth
+URL: https://minecraft.curseforge.com/projects/default-options
+
+MIT License https://minecraft.curseforge.com/projects/default-options/license
+
+
+JourneyMap
+Owner: techbrew
+URL: https://minecraft.curseforge.com/projects/journeymap-32274
+
+All Rights Reserved http://journeymap.info/Modpack_FAQ
+
+
+Just Enough Items (JEI)
+Owner: mezz
+URL: https://minecraft.curseforge.com/projects/just-enough-items-jei
+
+MIT License https://minecraft.curseforge.com/projects/just-enough-items-jei/license
+
+
+Natura
+Owner: mDiyo
+Authors: Alexbegt, progwml6
+URL: https://minecraft.curseforge.com/projects/natura
+
+Creative Commons Attribution 3.0 Unported https://minecraft.curseforge.com/projects/natura/license
+
+
+The One Probe
+Owner: McJty
+URL: https://minecraft.curseforge.com/projects/the-one-probe
+
+MIT License https://minecraft.curseforge.com/projects/the-one-probe/license
+
+TOP Addons
+Owner: DrMathiasDJ
+URL: https://minecraft.curseforge.com/projects/top-addons
+
+GNU GPLv3 https://minecraft.curseforge.com/projects/top-addons/license
+
+
+Neat
+Owner: Vazkii
+URL: https://minecraft.curseforge.com/projects/neat
+
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License https://minecraft.curseforge.com/projects/neat/license
+
+
+MouseTweaks
+Owner: YaLTeR
+URL: https://minecraft.curseforge.com/projects/mouse-tweaks
+
+BSD License https://minecraft.curseforge.com/projects/mouse-tweaks/license
+
+
+Inventory Tweaks
+Owner: Kobata
+URL: https://minecraft.curseforge.com/projects/inventory-tweaks
+
+MIT License https://minecraft.curseforge.com/projects/inventory-tweaks/license
+
+
+Crafting Tweaks
+Owner: BlayTheNinth
+URL: https://minecraft.curseforge.com/projects/crafting-tweaks
+
+MIT License https://minecraft.curseforge.com/projects/crafting-tweaks/license
+
+
+MCMultiPart
+Owner: amadornes
+URL: https://minecraft.curseforge.com/projects/mcmultipart
+
+MIT License https://minecraft.curseforge.com/projects/mcmultipart/license
+
+
+FTBLib
+Owner: FTB_ModpackTeam
+Authors: jaredlll08, LatvianModder
+URL: https://minecraft.curseforge.com/projects/ftblib
+
+MIT License https://minecraft.curseforge.com/projects/ftblib/license
+
+
+FTB Utilities
+Owner: FTB_ModpackTeam
+Authors: jaredlll08, LatvianModder
+URL: https://minecraft.curseforge.com/projects/ftb-utilities
+
+MIT License https://minecraft.curseforge.com/projects/ftb-utilities/license
+
+
+Morpheus
+Owner: Quetzi
+URL: https://minecraft.curseforge.com/projects/morpheus
+
+All Rights Reserved https://minecraft.curseforge.com/projects/morpheus/license
+Modpack Permissions:
+While Morpheus is a server side mod it may be useful in some cases to include it on the client (it should work in 'open to LAN'), you are free to include it in your modpack as either a server side only mod or as a server+client mod.
+
+
+Quark
+Owner: Vazkii
+URL: https://minecraft.curseforge.com/projects/quark
+
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License https://minecraft.curseforge.com/projects/quark/license
+
+
+Storage Drawers
+Owner: jaquadro
+URL: https://minecraft.curseforge.com/projects/storage-drawers
+
+MIT License https://minecraft.curseforge.com/projects/storage-drawers/license
+
+
+Drawers & Bits
+Owner: Belgabor
+URL: https://minecraft.curseforge.com/projects/drawers-bits
+
+MIT License https://minecraft.curseforge.com/projects/drawers-bits/license
+
+
+Chameleon
+Owner: jaquadro
+URL: https://minecraft.curseforge.com/projects/chameleon
+
+MIT License https://minecraft.curseforge.com/projects/chameleon/license
+
+
+Storage Network
+Owner: MrRiegel
+URL: https://minecraft.curseforge.com/projects/storage-network
+
+GNU LGPLv3 https://minecraft.curseforge.com/projects/storage-network/license
+
+
+McJtyLib
+Owner: McJty
+URL: https://minecraft.curseforge.com/projects/mcjtylib
+
+MIT License https://minecraft.curseforge.com/projects/mcjtylib/license
+
+
+RFTools
+Owner: McJty
+URL: https://minecraft.curseforge.com/projects/rftools
+
+MIT License https://minecraft.curseforge.com/projects/rftools/license
+
+
+RFTools Dimensions
+Owner: McJty
+URL: https://minecraft.curseforge.com/projects/rftools-dimensions
+
+MIT License https://minecraft.curseforge.com/projects/rftools-dimensions/license
+
+
+RFTools Control
+Owner: McJty
+URL: https://minecraft.curseforge.com/projects/rftools-control
+
+MIT License https://minecraft.curseforge.com/projects/rftools-control/license
+
+
+Gear Swapper
+Owner: McJty
+URL: https://minecraft.curseforge.com/projects/gear-swapper
+
+MIT License https://minecraft.curseforge.com/projects/gear-swapper/license
+
+
+Combat Help
+Owner: McJty
+URL: https://minecraft.curseforge.com/projects/combathelp
+
+MIT License https://minecraft.curseforge.com/projects/combathelp/license
+
+
+Baubles
+Owner: azanor
+URL: https://minecraft.curseforge.com/projects/baubles
+
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 https://minecraft.curseforge.com/projects/baubles/license
+
+
+Chisel
+Owner: tterrag1098
+Authors: Drullkus, Minecreatr
+URL: https://minecraft.curseforge.com/projects/chisel
+
+GPLv2 https://minecraft.curseforge.com/projects/chisel/license
+
+
+Random Things
+Owner: Lumien
+URL: https://minecraft.curseforge.com/projects/random-things
+
+MIT License https://minecraft.curseforge.com/projects/random-things/license
+
+
+Tinkers Construct
+Owner: mDiyo
+Authors: boni, KnightMiner
+Mascot: jadedcat
+URL: https://minecraft.curseforge.com/projects/tinkers-construct
+
+MIT License https://minecraft.curseforge.com/projects/tinkers-construct/license
+
+
+Mantle
+Owner: mDiyo
+Authors: boni, progwml6
+Contributors: Alexbegt, fuj1n
+Former Author: Arkan
+URL: https://minecraft.curseforge.com/projects/mantle
+
+MIT License https://minecraft.curseforge.com/projects/mantle/license
+
+
+InGame Info XML
+Owner: Lunatrius
+Former Author: bspkrs
+URL: https://minecraft.curseforge.com/projects/ingame-info-xml
+
+MIT License https://minecraft.curseforge.com/projects/ingame-info-xml/license
+
+
+Refined Storage
+Owner: raoulvdberge
+URL: https://minecraft.curseforge.com/projects/refined-storage
+
+MIT License https://minecraft.curseforge.com/projects/refined-storage/license
+
+
+Better Builder's Wands
+Owner: Portablejim
+URL: https://minecraft.curseforge.com/projects/better-builders-wands
+
+All Rights Reserved https://minecraft.curseforge.com/projects/better-builders-wands/license
+Modpack permission: Ask and don't receive - If you ask for permission to use this mod in any pack, you are not allowed to use it in any pack for 1 month. (Telling me that you are using it a pack is ok, but don't make it a question).
+
+
+Iron Chests
+Owner: progwml6
+URL: https://minecraft.curseforge.com/projects/iron-chests
+
+GPLv3 https://minecraft.curseforge.com/projects/iron-chests/license
+
+
+Chisels & Bits
+Owner: AlgorithmX2
+URL: https://minecraft.curseforge.com/projects/chisels-bits
+
+LGPLv3 https://minecraft.curseforge.com/projects/chisels-bits/license
+
+
+Flat Colored Blocks
+Owner: AlgorithmX2
+URL: https://minecraft.curseforge.com/projects/flat-colored-blocks
+
+MIT License https://minecraft.curseforge.com/projects/flat-colored-blocks/license
+
+
+Hopper Ducts
+Owner: FyberOptic
+URL: https://minecraft.curseforge.com/projects/hopper-ducts
+
+All Rights Reserved https://minecraft.curseforge.com/projects/hopper-ducts/license
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291075-hopper-ducts
+Modpacks:
+You don't need to ask permission to include this mod in a modpack. However, I do prefer that you include a list of mods somewhere on your site/page/thread with a link back to this forum thread, in case someone wants to report a bug. And while it's not necessary, I would appreciate you letting me know that you're putting it in your pack, and maybe a little about your pack if it's themed in some particular way. That way if someone asks for pack suggestions to try any of my mods, I'll know some to tell them!
+
+
+HelpFixer
+Owner: matthewprenger
+Contributor: Jenkins_Slave
+URL: https://minecraft.curseforge.com/projects/helpfixer
+
+WTFPL https://minecraft.curseforge.com/projects/helpfixer/license
+
+
+MineMenu
+Owner: dmillerw
+Author: Girafi
+URL: https://minecraft.curseforge.com/projects/minemenu
+
+LGPLv3 https://minecraft.curseforge.com/projects/minemenu/license
+
+
+Dark Utilities
+Owner: Darkhax
+URL: https://minecraft.curseforge.com/projects/dark-utilities
+
+All Rights Reserved https://minecraft.curseforge.com/projects/dark-utilities/license
+Mod Pack Info
+Feel free to use Dark Utilities in your mod pack. The only thing I ask is that you link back to this forum page somewhere within your mod pack page (if you make one), and that the mod pack be free for anyone to download. I have absolutely no restrictions on what you can do with the content on the mod. If you would like to use ModTweaker or something similar to change recipes of the content in the mod that is fine with me. 
+
+
+Bookshelf
+Owner: Darkhax
+URL: https://minecraft.curseforge.com/projects/bookshelf
+
+Public Domain https://minecraft.curseforge.com/projects/bookshelf/license
+
+
+Quantum Storage
+Owner: Gigabit101
+Contributor: Keridos
+URL: https://minecraft.curseforge.com/projects/quantumstorage
+
+GPLv3 https://minecraft.curseforge.com/projects/quantumstorage/license
+
+
+RebornCore
+Owner: modmuss50
+Authors: Gigabit101, ProfessorProspector
+URL: https://minecraft.curseforge.com/projects/reborncore
+
+MIT License https://minecraft.curseforge.com/projects/reborncore/license
+
+
+QuantumFlux
+Owner: jotato
+URL: https://minecraft.curseforge.com/projects/quantumflux
+
+Custom https://minecraft.curseforge.com/projects/quantumflux/license
+
+
+LaserLevel
+Owner: Lunatrius
+URL: https://minecraft.curseforge.com/projects/laser-level
+
+MIT License https://minecraft.curseforge.com/projects/laser-level/license
+
+
+Morph-o-Tool
+Owner: Vazkii
+URL: https://minecraft.curseforge.com/projects/morph-o-tool
+
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License https://minecraft.curseforge.com/projects/morph-o-tool/license
+
+
+Akashic Tome
+Owner: Vazkii
+URL: https://minecraft.curseforge.com/projects/akashic-tome
+
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License https://minecraft.curseforge.com/projects/akashic-tome/license
+
+
+Botania
+Owner: Vazkii
+URL: https://minecraft.curseforge.com/projects/botania
+
+http://botaniamod.net/license.php
+
+
+Psi
+Owner: Vazkii
+URL: https://minecraft.curseforge.com/projects/psi
+
+http://psi.vazkii.us/license.php
+
+
+AutoRegLib
+Owner: Vazkii
+URL: https://minecraft.curseforge.com/projects/autoreglib
+
+https://minecraft.curseforge.com/projects/autoreglib/license https://github.com/Vazkii/AutoRegLib
+
+
+Blood Magic
+Owner: WayofTime
+Contributor: Arcaratus
+Artists: BBoldt, CyanideX, Yulife
+Author: TehNut
+URL: https://minecraft.curseforge.com/projects/blood-magic
+
+Creative Commons Attribution 4.0 International License https://minecraft.curseforge.com/projects/blood-magic/license
+
+
+GuideAPI
+Owner: TehNut
+Mascot: TehNutJenkins
+Author: Tombenpotter
+URL: https://minecraft.curseforge.com/projects/guide-api
+
+Minecraft Mod Public License version 2.0.2 https://minecraft.curseforge.com/projects/guide-api/license
+
+
+Reliquary
+Owner: P3pp3rF1y
+URL: https://minecraft.curseforge.com/projects/reliquary-v1-3
+
+GPLv3 https://minecraft.curseforge.com/projects/reliquary-v1-3/license
+
+
+TombManyGraves
+Owner: M4thG33k
+URL: https://minecraft.curseforge.com/projects/tomb-many-graves
+
+GPLv3 https://minecraft.curseforge.com/projects/tomb-many-graves/license
+You are free to use this mod in any/all mod packs as long as you 1) don't make profit from it, 2) don't claim that you made it, and 3) let me know that you're using it. (The third is optional, but preferred.) 
+
+
+More Overlays
+Owner: feldim2425
+URL: https://minecraft.curseforge.com/projects/more-overlays
+
+MIT License https://minecraft.curseforge.com/projects/more-overlays/license
+
+
+No Mob Spawning on Trees
+Owner: oldjunyi
+URL: https://minecraft.curseforge.com/projects/no-mob-spawning-on-trees
+
+All Rights Reserved https://minecraft.curseforge.com/projects/no-mob-spawning-on-trees/license
+About Modpack:
+You are welcome to include this mod in modpacks as long as you provide credit by linking back to this page.
+
+
+Simple Harvest
+Owner: TehNut
+Mascot: TehNutJenkins
+URL: https://minecraft.curseforge.com/projects/simpleharvest
+
+MIT License https://minecraft.curseforge.com/projects/simpleharvest/license 
+
+
+BdLib
+Owner: bdew
+URL: https://minecraft.curseforge.com/projects/bdlib
+
+Minecraft Mod Public License v1.0.1 https://minecraft.curseforge.com/projects/bdlib/license
+
+
+Advanced Generators
+Owner: bdew
+URL: https://minecraft.curseforge.com/projects/advanced-generators
+
+Minecraft Mod Public License v1.0.1 https://minecraft.curseforge.com/projects/advanced-generators/license
+
+
+Actually Additions
+Owner: Ellpeck
+Artist: BootyToast
+Contributor: canitzp
+URL: https://minecraft.curseforge.com/projects/actually-additions
+
+https://minecraft.curseforge.com/projects/actually-additions/license https://github.com/Ellpeck/ActuallyAdditions/blob/master/LICENSE.md
+
+
+Redstone Paste
+Owner: FyberOptic
+URL: https://minecraft.curseforge.com/projects/redstone-paste
+
+All Rights Reserved http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291890-redstone-paste-mod
+Modpacks:
+You don't need to ask permission to include this mod in a modpack. However, I do prefer that you include a list of mods somewhere on your site/page/thread with a link back to this forum thread, in case someone wants to report a bug. And while it's not necessary, I would appreciate you letting me know that you're putting it in your pack, and maybe a little about your pack if it's themed in some particular way. That way if someone asks for pack suggestions to try any of my mods, I'll know some to tell them!
+
+
+Better Achievements
+Owner: Way2muchnoise
+URL: https://minecraft.curseforge.com/projects/betterachievements
+
+https://github.com/way2muchnoise/BetterAchievements/blob/master/LICENSE.md
+
+
+Sleeping Bag
+Owner: shadowfactsmc
+URL: https://minecraft.curseforge.com/projects/sleeping-bag
+
+https://minecraft.curseforge.com/projects/sleeping-bag/license
+
+
+Not Enough Wands
+Owner: romelo333
+URL: https://minecraft.curseforge.com/projects/not-enough-wands
+
+MIT License https://minecraft.curseforge.com/projects/not-enough-wands/license
+
+
+Fast Leaf Decay
+Owner: Lumien
+URL: https://minecraft.curseforge.com/projects/fast-leaf-decay
+
+All Rights Reserved https://minecraft.curseforge.com/projects/fast-leaf-decay/license
+Feel free to add it to any modpack you want.
+
+
+ShetiPhianCore
+Owner: ShetiPhian
+Artist: Fruzstrated
+URL: https://minecraft.curseforge.com/projects/shetiphiancore
+
+Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License https://minecraft.curseforge.com/projects/shetiphiancore/license
+
+
+EnderTanks
+Owner: ShetiPhian
+Artist: Fruzstrated
+URL: https://minecraft.curseforge.com/projects/endertanks
+
+Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License https://minecraft.curseforge.com/projects/endertanks/license
+
+
+MultiStorage
+Owner: ShetiPhian
+Artist: Fruzstrated
+URL: https://minecraft.curseforge.com/projects/multistorage
+
+Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License https://minecraft.curseforge.com/projects/multistorage/license
+
+
+MmmMmmMmmMmm
+Owner: boni
+URL: https://minecraft.curseforge.com/projects/mmmmmmmmmmmm
+
+Public Domain https://minecraft.curseforge.com/projects/mmmmmmmmmmmm/license
+
+
+Pam's Harvestcraft
+Owner: MatrexsVigil (Pam)
+URL: https://minecraft.curseforge.com/projects/pams-harvestcraft
+
+All Rights Reserved https://minecraft.curseforge.com/projects/pams-harvestcraft/license
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-aug-111th-2016-harvestcraft-1-9-4-1-10
+Question: Can I include one of your mods in my modpack? YES! Just make sure to credit myself (Pam) and Rhodox of the Painterly Pack. Thanks!
+
+
+Cooking For Blockheads
+Owner: BlayTheNinth
+Artist: Zero9010
+URL: https://minecraft.curseforge.com/projects/cooking-for-blockheads
+
+MIT License https://minecraft.curseforge.com/projects/cooking-for-blockheads/license
+
+
+Ender Zoo
+Owner: CrazyPants
+Author: tterrag1098
+URL: https://minecraft.curseforge.com/projects/ender-zoo
+
+Public Domain https://minecraft.curseforge.com/projects/ender-zoo/license
+
+
+ValkyrieLib
+Owner: ValkyrieofNight
+URL: https://minecraft.curseforge.com/projects/valkyrielib
+
+All Rights Reserved https://minecraft.curseforge.com/projects/valkyrielib/license
+May I use this mod in my Modpack?
+Yes as long as you meet the following criteria:
+    You credit me(ValkyrieofNight) as the author.
+    You cannot make any money off of the modpack.
+Also a link to this page is much appreciated.
+
+
+EnvironmentalTech
+Owner: ValkyrieofNight
+URL: https://minecraft.curseforge.com/projects/environmental-tech
+
+All Rights Reserved https://minecraft.curseforge.com/projects/environmental-tech/license
+May I use this mod in my Modpack?
+Yes as long as you meet the following criteria:
+    You credit me(ValkyrieofNight) as the author of this mod.
+    You cannot make any money off of the modpack.
+Also a link to this page is much appreciated.
+
+
+Ender IO
+Owner: CrazyPants
+Artist: CyanideX
+Authors: Henry_Loenwind, MatthiasM, tterrag1098
+URL: https://minecraft.curseforge.com/projects/ender-io
+
+Public Domain https://minecraft.curseforge.com/projects/ender-io/license
+
+
+EnderCore
+Owner: tterrag1098
+Author: CrazyPants
+URL: https://minecraft.curseforge.com/projects/endercore
+
+Public Domain https://minecraft.curseforge.com/projects/endercore/license
+
+
+Forestry
+Owner: SirSengir
+Authors: CovertJaguar, mezz, MysteriousAges
+URL: https://minecraft.curseforge.com/projects/forestry
+
+LGPLv3 https://minecraft.curseforge.com/projects/forestry/license
+
+
+JEIBees
+Owner: bdew
+URL: https://minecraft.curseforge.com/projects/jei-bees
+
+LGPLv3 https://minecraft.curseforge.com/projects/jei-bees/license
+
+
+Gendustry
+Owner: bdew
+URL: https://minecraft.curseforge.com/projects/gendustry
+
+Minecraft Mod Public License v1.0.1 https://minecraft.curseforge.com/projects/gendustry/license
+
+
+Chisels & Bytes
+Owner: Belgabor
+URL: https://minecraft.curseforge.com/projects/chisels-bytes
+
+MIT License https://minecraft.curseforge.com/projects/chisels-bytes/license
+
+
+Extra Utilities 2
+Owner: RWTema
+URL: https://minecraft.curseforge.com/projects/extra-utilities
+
+All Rights Reserved https://minecraft.curseforge.com/projects/extra-utilities/license
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k
+You have my permission to use include this mod in any modpack, public or private, provided that credit is given, the source code is not modified and the overall mod pack is distributed free of charge.
+
+
+Schematics
+Owner: Lunatrius
+URL: https://minecraft.curseforge.com/projects/schematica
+
+MIT License https://minecraft.curseforge.com/projects/schematica/license
+
+
+Signals
+Owner: MineMaarten
+URL: https://minecraft.curseforge.com/projects/signals
+
+GPLv3 https://minecraft.curseforge.com/projects/signals/license
+
+
+AppleSkin
+Owner: squeek502
+URL: https://minecraft.curseforge.com/projects/appleskin
+
+Public Domain https://minecraft.curseforge.com/projects/appleskin/license
+
+
+OpenComputers
+Owner: Sangar
+URL: https://minecraft.curseforge.com/projects/opencomputers
+
+MIT License https://minecraft.curseforge.com/projects/opencomputers/license
+
+
+OpenGlasses
+Owner: marcin212
+URL: https://minecraft.curseforge.com/projects/openglasses
+
+MIT License https://minecraft.curseforge.com/projects/openglasses/license
+
+
+Forge Creeper Heal
+Owner: EyZox
+URL: https://minecraft.curseforge.com/projects/forge-creeper-heal
+
+Minecraft Mod Public License v1.0.1 https://minecraft.curseforge.com/projects/forge-creeper-heal/license
+https://github.com/RedRelay/ForgeCreeperHeal/blob/MC1.10.2/LICENSE.md
+
+
+UniDict
+Owner: WanionCrane
+Testers: Hypsellis, johnc94, MP3DSL, SteelShot, timist24
+URL: https://minecraft.curseforge.com/projects/unidict
+
+Mozilla Public License 2.0 https://minecraft.curseforge.com/projects/unidict/license
+
+
+WanionLib
+Owner: WanionCrane
+URL: https://minecraft.curseforge.com/projects/wanionlib
+
+Mozilla Public License 2.0 https://minecraft.curseforge.com/projects/wanionlib/license
+
+
+Roots
+Owner: elucent
+Authors: Alexismachina, ShadowGamerXY, werty1125
+URL: https://minecraft.curseforge.com/projects/roots
+
+MIT License https://minecraft.curseforge.com/projects/roots/license
+
+
+KleeSlabs
+Owner: BlayTheNinth
+URL: https://minecraft.curseforge.com/projects/kleeslabs
+
+Public Domain https://minecraft.curseforge.com/projects/kleeslabs/license
+
+
+Compass Coordinates
+Owner: Quetzi
+URL: https://minecraft.curseforge.com/projects/compass-coordinates
+
+All Rights Reserved https://minecraft.curseforge.com/projects/compass-coordinates/license
+Modpack policy: You are free to include and distribute this mod as part of a modpack, providing you provide credit.
+
+
+Ellipsis
+Owner: Daomephsta
+URL: https://minecraft.curseforge.com/projects/aka-ellipsis
+
+MIT License https://minecraft.curseforge.com/projects/aka-ellipsis/license
+
+
+Extreme Reactors
+Owner: ZeroNoRyouki
+Author: ABookFreak
+URL: https://minecraft.curseforge.com/projects/extreme-reactors
+
+MIT License https://minecraft.curseforge.com/projects/extreme-reactors/license
+
+
+ZeroCore
+Owner: ZeroNoRyouki
+URL: https://minecraft.curseforge.com/projects/zerocore
+
+All Rights Reserved https://minecraft.curseforge.com/projects/zerocore/license
+ MODPACKS AND LET'S PLAYs
+You can add ZeroCore to your mod pack or use it in your Let's Play / live stream. No need to ask, just add a note here on the main forum thread (http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2731713-extreme-reactors-a-big-reactors-port-to-mc-1-9-4) and let us known where are you having fun with the mod :)
+
+
+More Bees
+Owner: Lach_01298
+URL: https://minecraft.curseforge.com/projects/more-bees
+
+LGPLv3 https://minecraft.curseforge.com/projects/more-bees/license
+
+
+Immersive Engineering
+Owner: BluSunrize
+Artist: Mr_Hazard
+URL: https://minecraft.curseforge.com/projects/immersive-engineering
+
+All Rights Reserved https://minecraft.curseforge.com/projects/immersive-engineering/license
+Modpack policy:
+Go wild, as long as you do not monetize content that doesn't belong to you and abide the EULA ^^
+And obviously, report your bugs on the issue tracker! :D
+
+
+Just Enough Calculation
+Owner: Towdium
+URL: https://minecraft.curseforge.com/projects/just-enough-calculation
+
+GPLv3 https://minecraft.curseforge.com/projects/just-enough-calculation/license
+
+
+Fluidity
+Owner: The_Fireplace
+URL: https://minecraft.curseforge.com/projects/fluidity
+
+LGPLv3 https://minecraft.curseforge.com/projects/fluidity/license
+
+
+Brandon's Core
+Owner: brandon3055
+URL: https://minecraft.curseforge.com/projects/brandons-core
+
+MIT License https://minecraft.curseforge.com/projects/brandons-core/license
+
+
+Draconic Evolution
+Owner: brandon3055
+Contributor: GreatOrator
+URL: https://minecraft.curseforge.com/projects/draconic-evolution
+
+MIT License https://minecraft.curseforge.com/projects/draconic-evolution/license
+
+
+OpenBlocks Elevator
+Owner: VsnGamer
+URL: https://minecraft.curseforge.com/projects/openblocks-elevator
+
+On CurseForge: All Rights Reserved https://minecraft.curseforge.com/projects/openblocks-elevator/license
+However, it is a direct port of the OpenBlocks elevator. OpenBlocks is MIT License (https://minecraft.curseforge.com/projects/openblocks/license) And thus so is this. The porter simply hasn't set it correctly. Legally speaking, it is MIT License, period, whether he likes it or not.
+
+
+TrashSlot
+Owner: BlayTheNinth
+URL: https://minecraft.curseforge.com/projects/trashslot
+
+MIT License https://minecraft.curseforge.com/projects/trashslot/license
+
+
+Chest Transporter
+Owner: CubeX2
+URL: https://minecraft.curseforge.com/projects/chest-transporter
+
+All Rights Reserved https://minecraft.curseforge.com/projects/chest-transporter/license
+Modpacks:
+You are allowed to include the mod in a modpack if you give visible credit to me (CubeX2).
+
+
+Iron Backpacks
+Owner: gr8pefish
+Artist: BBoldt
+Contributor: TehNut
+URL: https://minecraft.curseforge.com/projects/iron-backpacks
+
+GPLv3 https://minecraft.curseforge.com/projects/iron-backpacks/license
+
+
+Bad Wither No Cookie!
+Owner: droidicus
+URL: https://minecraft.curseforge.com/projects/bad-wither-no-cookie
+
+MIT License https://minecraft.curseforge.com/projects/bad-wither-no-cookie/license
+
+
+Client Tweaks
+Owner: BlayTheNinth
+URL: https://minecraft.curseforge.com/projects/client-tweaks
+
+MIT License https://minecraft.curseforge.com/projects/client-tweaks/license
+
+
+Woot
+Owner: Ipsis
+URL: https://minecraft.curseforge.com/projects/woot
+
+LGPLv3 https://minecraft.curseforge.com/projects/woot/license
+
+
+Useful Nullifiers
+Owner: Bartz24
+URL: https://minecraft.curseforge.com/projects/useful-nullifiers
+
+GPLv3 https://minecraft.curseforge.com/projects/useful-nullifiers/license
+
+
+Simply Jetpacks 2
+Owner: Tomson124
+Former Author: Tonius
+URL: https://minecraft.curseforge.com/projects/simply-jetpacks-2
+
+MIT License https://minecraft.curseforge.com/projects/simply-jetpacks-2/license
+
+
+Translocators 1.8+
+Owner: covers1624
+Former Author: chicken_bones
+URL: https://minecraft.curseforge.com/projects/translocators-1-8
+
+MIT License https://minecraft.curseforge.com/projects/translocators-1-8/license
+
+
+CodeChicken Core 1.8+
+Owner: covers1624
+Former Author: chicken_bones
+URL: https://minecraft.curseforge.com/projects/codechicken-core-1-8
+
+MIT License https://minecraft.curseforge.com/projects/codechicken-core-1-8/license
+
+
+CodeChicken Lib 1.8+
+Owner: covers1624
+Former Author: chicken_bones
+URL: https://minecraft.curseforge.com/projects/codechicken-lib-1-8
+
+LGPLv2.1 https://minecraft.curseforge.com/projects/codechicken-lib-1-8/license
+
+
+RF Bridge
+Owner: modmuss50
+URL: https://minecraft.curseforge.com/projects/rf-bridge
+
+MIT License https://minecraft.curseforge.com/projects/rf-bridge/license
+
+
+Mekanism
+Lead Developer: aidancbrady
+Co-Developer: unpairedbracket
+Artwork: Cheapshot, Archadia
+Contributors: micdoodle
+URL: http://aidancbrady.com/mekanism/ https://github.com/aidancbrady/Mekanism
+
+MIT License https://github.com/aidancbrady/Mekanism/blob/master/README.md
+
+
+Applied Energistics 2
+Owner: AlgorithmX2
+Authors: akarso, Cisien, fireball1725, thatsIch
+URL: http://ae-mod.info/ https://minecraft.curseforge.com/projects/applied-energistics-2
+
+LGPLv3 https://minecraft.curseforge.com/projects/applied-energistics-2/license
+
+
+Peristent Bits
+Owner: oitsjustjose
+URL: https://minecraft.curseforge.com/projects/persistent-bits
+
+GPLv3 https://minecraft.curseforge.com/projects/persistent-bits/license
+
+
+Simple Protection
+Owner: Ellpeck
+URL: https://minecraft.curseforge.com/projects/simple-protection
+
+Custom License https://github.com/Ellpeck/SimpleProtection/blob/master/LICENSE.md
+
+
+Super Circuit Maker
+Owner: amadornes
+URL: https://minecraft.curseforge.com/projects/super-circuit-maker
+
+All Rights Reserved https://minecraft.curseforge.com/projects/super-circuit-maker/license
+Feel free to include Super Circuit Maker in any of your packs! :)
+
+
+ArchitectureCraft
+Owner: gcewing
+URL: https://minecraft.curseforge.com/projects/architecturecraft
+
+MIT License https://minecraft.curseforge.com/projects/architecturecraft/license
+
+
+Steve's Factory Manager Reborn
+Owner: Gigabit101
+URL: https://minecraft.curseforge.com/projects/steves-factory-manager-reborn
+
+GPLv3 https://minecraft.curseforge.com/projects/steves-factory-manager-reborn/license

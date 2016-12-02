@@ -1,0 +1,62 @@
+
+
+Ex Nihilo Omnia
+Owner: Raven2396
+URL: https://minecraft.curseforge.com/projects/ex-nihilo-omnia
+
+GPLv3 https://minecraft.curseforge.com/projects/ex-nihilo-omnia/license
+Permissions for things
+You can use this mod in your modpack, no questions asked. You can use the source to do whatever you want and release it, or develop your own plugins. However, if you are going to give somebody the download, give them this page.
+
+
+Ex Compressum
+Owner: BlayTheNinth
+URL: https://minecraft.curseforge.com/projects/ex-compressum
+
+GPLv3 https://minecraft.curseforge.com/projects/ex-compressum/license
+
+
+Garden of Glass
+Owner: Vazkii
+URL: https://minecraft.curseforge.com/projects/botania-garden-of-glass
+
+Botania License https://minecraft.curseforge.com/projects/botania-garden-of-glass/license http://botaniamod.net/license.php
+
+
+Initial Inventory
+Owner: jaredlll08
+URL: https://minecraft.curseforge.com/projects/initial-inventory
+
+MIT License https://minecraft.curseforge.com/projects/initial-inventory/license
+
+
+YUNoMakeGoodMap
+Owner: LexManos
+URL: https://minecraft.curseforge.com/projects/yunomakegoodmap
+
+Apache License version 2.0 https://minecraft.curseforge.com/projects/yunomakegoodmap/license
+
+
+Tree Growing Simulator
+Owner: tterrag1098
+URL: https://minecraft.curseforge.com/projects/tree-growing-simulator
+
+LGPLv3 https://minecraft.curseforge.com/projects/tree-growing-simulator/license
+
+
+Mystical Agriculture
+Owner: BlakeBr0
+URL: https://minecraft.curseforge.com/projects/mystical-agriculture
+
+All Rights Reserved https://minecraft.curseforge.com/projects/mystical-agriculture/license
+You can use this in your modpacks without asking me.
+
+
+LootBags
+Owner: Mal7690
+URL: https://minecraft.curseforge.com/projects/lootbags
+
+Custom License https://minecraft.curseforge.com/projects/lootbags/license
+Modpacks:
+You can use this in modpacks provided that I am credited and either this page or a link to my Minecraft Forum is included in the modpack information. 
+

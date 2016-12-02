@@ -1,0 +1,86 @@
+{
+  "recipes": [
+    {
+      "id": "minecraft:dirt",
+      "meta": 0,
+      "behavior": "meta_ignored",
+      "rewards": [
+        {
+          "id": "actuallyadditions:itemCoffeeSeed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 5
+        },
+        {
+          "id": "actuallyadditions:itemRiceSeed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 5
+        },
+        {
+          "id": "actuallyadditions:itemCanolaSeed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 5
+        },
+        {
+          "id": "actuallyadditions:itemFlaxSeed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 5
+        },
+        {
+          "id": "immersiveengineering:seed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 5
+        }
+      ]
+    },
+    {
+      "id": "minecraft:gravel",
+      "meta": 0,
+      "behavior": "meta_ignored",
+      "rewards": [
+        {
+          "id": "extrautils2:Ingredients",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 1
+        }
+      ]
+    },
+    {
+      "id": "minecraft:sand",
+      "meta": 0,
+      "behavior": "meta_ignored",
+      "rewards": [
+        {
+          "id": "mysticalagriculture:prosperity_shard",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 3
+        }
+      ]
+    },
+    {
+      "id": "exnihiloomnia:dust",
+      "meta": 1,
+      "behavior": "meta_ignored",
+      "rewards": [
+        {
+          "id": "mysticalagriculture:inferium_essence",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 3
+        },
+        {
+          "id": "quantumflux:graphiteDust",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+
+
+Tough As Nails
+Owner: Glitchfiend
+Authors: Adubbz, Forstride
+URL: https://minecraft.curseforge.com/projects/tough-as-nails
+
+CC BY-NC-ND 4.0 https://minecraft.curseforge.com/projects/tough-as-nails/licenseYou may use this mod in a modpack as long as you do not make money off of it (Adf.ly, exclusive access from donations, etc.), you give credit (Linking back to this thread), you do not make any changes to the mod aside from config files, and you follow all of the other terms listed in the license below.
+
+
+Hardcore Wither
+Owner: thor12022
+URL: https://minecraft.curseforge.com/projects/hardcore-wither
+
+BSD License https://minecraft.curseforge.com/projects/hardcore-wither/license
+Feel free to use in modpacks; notification is appreciated, but not required.
+
+
+SilentLib
+Owner: SilentChaos512
+URL: https://minecraft.curseforge.com/projects/silent-lib
+
+GPLv3 https://minecraft.curseforge.com/projects/silent-lib/license
+
+
+Scaling Health
+Owner: SilentChaos512
+URL: https://minecraft.curseforge.com/projects/scaling-health
+
+LGPLv3 https://minecraft.curseforge.com/projects/scaling-health/license
+
