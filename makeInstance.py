@@ -4,7 +4,7 @@ import sys
 import os
 import packbuilder as pb
 
-PACK_DIR="~/Quasar"
+PACK_DIR="/home/michel/Quasar"
 
 if __name__ == "__main__":
     if len(sys.argv) == 2:

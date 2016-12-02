@@ -5,7 +5,7 @@ import os
 import subprocess
 import packbuilder as pb
 
-PACK_DIR="~/Quasar"
+PACK_DIR="/home/michel/Quasar"
 VERSION = "v0.6.0"
 
 class cd:
