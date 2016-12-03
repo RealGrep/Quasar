@@ -34,47 +34,17 @@ def loadPacks(packInput):
         inputs.append(component)
     return inputs
 
+def loadProperties(packInput):
+    inFile = open(packInput + ".properties", 'r')
 
-if __name__ == "__main__":
-    if len(sys.argv) == 2:
-        packInput = str(sys.argv[1])
-    else:
-        print("Please provide one command line argument for the pack input file.")
-        exit(1)
+    reader = csv.reader(inFile)
 
-    inputs = loadPacks(packInput)
+    properties = {}
+    for row in reader:
+        name = row[0].strip()
+        value = row[1].strip()
 
-    print("""{
-  "manifestType": "minecraftModpack",
-  "manifestVersion": 1,
-  "name": "Quasar Core 1.10.2",
-  "version": "0.6.0",
-  "author": "Mike Dusseault",
-  "description": "",
-  "projectID": -1,
-  "files": [""")
+        properties[name] = value
 
-    isFirst = True
-    for line in inputs:
-        outputMods(line, isFirst)
-        isFirst = False
-
-#print("""
-#    {"projectID": 32274, "fileID": 2292925, "required": true},
-#    {"projectID": 220318, "fileID": 2294566, "required": true}
-#""")
-    print("""
-  ],
-    "overrides": "overrides",
-    "minecraft": {
-    "version": "1.10.2",
-    "modLoaders": [
-      {
-        "id": "forge-12.18.2.2151",
-        "primary": true
-      }
-    ]
-    }
-}
-    """)
+    return properties
 

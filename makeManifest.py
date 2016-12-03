@@ -14,15 +14,25 @@ if __name__ == "__main__":
 
     inputs = pb.loadPacks(packInput)
 
-    print("""{
-  "manifestType": "minecraftModpack",
+    # TODO: Read manifest data as below from .properties files into hash table
+    #properties = packInput + ".properties"
+    properties = pb.loadProperties(packInput)
+    for k,v in properties.items():
+        print(k + ":" + v)
+
+
+    print("{")
+    header = """  "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Addle Modpack 1.10.2",
-  "version": "0.0.4",
-  "author": "Mike Dusseault",
-  "description": "",
-  "projectID": -1,
-  "files": [""")
+  "name": {name},
+  "version": {version},
+  "author": {author},
+  "description": {description},
+  "projectID": {projectID},
+  "files": ["""
+
+    header = header.format(**properties)
+    print(header)
 
     isFirst = True
     for line in inputs:
@@ -37,14 +47,14 @@ if __name__ == "__main__":
   ],
     "overrides": "overrides",
     "minecraft": {
-    "version": "1.10.2",
+    "version": %s,
     "modLoaders": [
       {
-        "id": "forge-12.18.2.2125",
+        "id": %s,
         "primary": true
       }
     ]
     }
 }
-    """)
+    """ % (properties["mc-version"], properties["forgeID"]))
 
