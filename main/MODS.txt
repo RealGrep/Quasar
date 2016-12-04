@@ -56,7 +56,7 @@ http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278956-
 
 Antique Atlas
 Owner: Created by Hunternif, now maintained and developed by Kenkron
-URL: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-antique-atlas https://github.com/Hunternif/AntiqueAtlas
+URL: https://minecraft.curseforge.com/projects/antique-atlas http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-antique-atlas https://github.com/Hunternif/AntiqueAtlas
 
 GPLv3 or later https://github.com/Hunternif/AntiqueAtlas/blob/master/LICENSE
 http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-antique-atlas

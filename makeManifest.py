@@ -17,9 +17,6 @@ if __name__ == "__main__":
     # TODO: Read manifest data as below from .properties files into hash table
     #properties = packInput + ".properties"
     properties = pb.loadProperties(packInput)
-    for k,v in properties.items():
-        print(k + ":" + v)
-
 
     print("{")
     header = """  "manifestType": "minecraftModpack",

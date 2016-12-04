@@ -2,12 +2,13 @@ CraftTweaker
 Owner: jaredlll08
 Original Author: stanhebben
 URL: https://minecraft.curseforge.com/projects/crafttweaker
-Based on MineTweaker3 by Stan Hebben
 
+Based on MineTweaker3 by Stan Hebben
 https://minecraft.curseforge.com/projects/crafttweaker/license
 The source code is freely available in here, at GitHub. The mod itself may be redistributed in modpacks as long as these modpacks are distributed for free. No money can be made from the distribution of the mod.
 
 You may modify and redistribute your own customized version of MineTweaker as long as you mark your own version of MineTweaker as CUSTOMIZED (that is, put CUSTOMIZED in both the jar and mod name) and as long as you make the modified source code publicly available. Obviously, I cannot offer support for customized builds. Just be so kind to mention the original source and author (me) ;)
+
 
 ModTweaker
 Owner: jaredlll08
@@ -27,13 +28,6 @@ Owner: BlayTheNinth
 URL: https://minecraft.curseforge.com/projects/default-options
 
 MIT License https://minecraft.curseforge.com/projects/default-options/license
-
-
-JourneyMap
-Owner: techbrew
-URL: https://minecraft.curseforge.com/projects/journeymap-32274
-
-All Rights Reserved http://journeymap.info/Modpack_FAQ
 
 
 Just Enough Items (JEI)
@@ -682,14 +676,6 @@ URL: https://minecraft.curseforge.com/projects/openglasses
 MIT License https://minecraft.curseforge.com/projects/openglasses/license
 
 
-Forge Creeper Heal
-Owner: EyZox
-URL: https://minecraft.curseforge.com/projects/forge-creeper-heal
-
-Minecraft Mod Public License v1.0.1 https://minecraft.curseforge.com/projects/forge-creeper-heal/license
-https://github.com/RedRelay/ForgeCreeperHeal/blob/MC1.10.2/LICENSE.md
-
-
 UniDict
 Owner: WanionCrane
 Testers: Hypsellis, johnc94, MP3DSL, SteelShot, timist24
@@ -726,13 +712,6 @@ URL: https://minecraft.curseforge.com/projects/compass-coordinates
 
 All Rights Reserved https://minecraft.curseforge.com/projects/compass-coordinates/license
 Modpack policy: You are free to include and distribute this mod as part of a modpack, providing you provide credit.
-
-
-Ellipsis
-Owner: Daomephsta
-URL: https://minecraft.curseforge.com/projects/aka-ellipsis
-
-MIT License https://minecraft.curseforge.com/projects/aka-ellipsis/license
 
 
 Extreme Reactors
@@ -868,14 +847,6 @@ URL: https://minecraft.curseforge.com/projects/simply-jetpacks-2
 MIT License https://minecraft.curseforge.com/projects/simply-jetpacks-2/license
 
 
-Translocators 1.8+
-Owner: covers1624
-Former Author: chicken_bones
-URL: https://minecraft.curseforge.com/projects/translocators-1-8
-
-MIT License https://minecraft.curseforge.com/projects/translocators-1-8/license
-
-
 CodeChicken Core 1.8+
 Owner: covers1624
 Former Author: chicken_bones
@@ -900,7 +871,7 @@ MIT License https://minecraft.curseforge.com/projects/rf-bridge/license
 
 
 Mekanism
-Lead Developer: aidancbrady
+Owner: aidancbrady
 Co-Developer: unpairedbracket
 Artwork: Cheapshot, Archadia
 Contributors: micdoodle
@@ -912,7 +883,7 @@ MIT License https://github.com/aidancbrady/Mekanism/blob/master/README.md
 Applied Energistics 2
 Owner: AlgorithmX2
 Authors: akarso, Cisien, fireball1725, thatsIch
-URL: http://ae-mod.info/ https://minecraft.curseforge.com/projects/applied-energistics-2
+URL: https://minecraft.curseforge.com/projects/applied-energistics-2 http://ae-mod.info/
 
 LGPLv3 https://minecraft.curseforge.com/projects/applied-energistics-2/license
 
