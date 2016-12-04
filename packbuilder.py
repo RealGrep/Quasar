@@ -21,7 +21,7 @@ def outputMods(inFileName, isFirst):
         projectID = row[1].strip()
         fileID = row[2].strip()
 
-        print("    {\"projectID\": \"" + projectID + "\", \"fileID\": \"" + fileID + "\", \"required\": true " + "}", end="")
+        print("    {\"projectID\": " + projectID + ", \"fileID\": " + fileID + ", \"required\": true " + "}", end="")
 
 def loadPacks(packInput):
     inFile = open(packInput + ".cfg", 'r')
