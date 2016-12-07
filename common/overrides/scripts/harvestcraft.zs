@@ -13,3 +13,6 @@ recipes.addShaped(<harvestcraft:saucepanItem>,
      [null, <ore:stickWood>, null],
      [null, null, null]]);
 
+# Recipe clashes with salt recipe, and can be made in presser. Reported,
+# remove once fixed and updated.
+recipes.remove(<harvestcraft:bubblywaterItem>);

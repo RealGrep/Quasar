@@ -922,3 +922,35 @@ Owner: Gigabit101
 URL: https://minecraft.curseforge.com/projects/steves-factory-manager-reborn
 
 GPLv3 https://minecraft.curseforge.com/projects/steves-factory-manager-reborn/license
+
+
+Bed Bugs
+Owner: gr8pefish
+URL: https://minecraft.curseforge.com/projects/bed-bugs
+
+MIT License https://minecraft.curseforge.com/projects/bed-bugs/license
+
+
+FoamFix
+Owner: asiekierka
+URL: http://asie.pl/foamfix/index.html
+
+GPLv3 with a special exemption for linking with Minecraft and associated libraries https://github.com/asiekierka/FoamFix/blob/master/COPYING
+
+
+Controlling
+Owner: jaredlll08
+URL: https://minecraft.curseforge.com/projects/controlling
+
+All Rights Reserved https://minecraft.curseforge.com/projects/controlling/license
+It is fine to use this mod in a modpack! Just don't ask me about it!
+
+
+Redstone Flux Arsenal
+Owner: koxhack
+URL: https://minecraft.curseforge.com/projects/redstone-flux-arsenal
+
+All Rights Reserved https://minecraft.curseforge.com/projects/redstone-flux-arsenal/license
+Modpacks:
+Feel free to use it as long as you give credits and a link to this page.
+Optional: Let me know about it so I can check it out

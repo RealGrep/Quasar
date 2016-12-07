@@ -81,6 +81,37 @@
           "baseChance": 1
         }
       ]
+    },
+    {
+      "id": "tconstruct:slime_congealed",
+      "meta": 0,
+      "behavior": "meta_ignored",
+      "rewards": [
+        {
+          "id": "tconstruct:slime_sapling",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 6
+        },
+        {
+          "id": "tconstruct:slime_sapling",
+          "meta": 1,
+          "amount": 1,
+          "baseChance": 5
+        },
+        {
+          "id": "tconstruct:slime_sapling",
+          "meta": 2,
+          "amount": 1,
+          "baseChance": 4
+        },
+        {
+          "id": "tconstruct:edible",
+          "meta": 1,
+          "amount": 1,
+          "baseChance": 8
+        }
+      ]
     }
   ]
 }
