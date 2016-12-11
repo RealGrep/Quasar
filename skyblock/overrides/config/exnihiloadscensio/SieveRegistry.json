@@ -69,7 +69,7 @@
         "name": "exnihiloadscensio:itemOreIron",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.25,
       "meshLevel": 3
     },
     {
@@ -77,7 +77,7 @@
         "name": "exnihiloadscensio:itemOreIron",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.30,
       "meshLevel": 4
     },
     {
@@ -85,7 +85,7 @@
         "name": "exnihiloadscensio:itemOreGold",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.08,
       "meshLevel": 2
     },
     {
@@ -93,7 +93,7 @@
         "name": "exnihiloadscensio:itemOreGold",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.1,
       "meshLevel": 3
     },
     {
@@ -101,7 +101,7 @@
         "name": "exnihiloadscensio:itemOreGold",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.15,
       "meshLevel": 4
     },
     {
@@ -109,7 +109,7 @@
         "name": "exnihiloadscensio:itemOreOsmium",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.15,
       "meshLevel": 2
     },
     {
@@ -117,7 +117,7 @@
         "name": "exnihiloadscensio:itemOreOsmium",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.20,
       "meshLevel": 3
     },
     {
@@ -125,16 +125,15 @@
         "name": "exnihiloadscensio:itemOreOsmium",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.25,
       "meshLevel": 4
     },
-
     {
       "drop": {
         "name": "exnihiloadscensio:itemOreCopper",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.15,
       "meshLevel": 2
     },
     {
@@ -150,7 +149,7 @@
         "name": "exnihiloadscensio:itemOreCopper",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.25,
       "meshLevel": 4
     },
     {
@@ -158,7 +157,7 @@
         "name": "exnihiloadscensio:itemOreTin",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.10,
       "meshLevel": 2
     },
     {
@@ -166,7 +165,7 @@
         "name": "exnihiloadscensio:itemOreTin",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.15,
       "meshLevel": 3
     },
     {
@@ -174,7 +173,7 @@
         "name": "exnihiloadscensio:itemOreTin",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.2,
       "meshLevel": 4
     },
     {
@@ -182,7 +181,7 @@
         "name": "exnihiloadscensio:itemOreAluminum",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.05,
       "meshLevel": 2
     },
     {
@@ -190,7 +189,7 @@
         "name": "exnihiloadscensio:itemOreAluminum",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.1,
       "meshLevel": 3
     },
     {
@@ -198,7 +197,7 @@
         "name": "exnihiloadscensio:itemOreAluminum",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.15,
       "meshLevel": 4
     },
     {
@@ -206,7 +205,7 @@
         "name": "exnihiloadscensio:itemOreLead",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.08,
       "meshLevel": 2
     },
     {
@@ -214,7 +213,7 @@
         "name": "exnihiloadscensio:itemOreLead",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.1,
       "meshLevel": 3
     },
     {
@@ -222,7 +221,7 @@
         "name": "exnihiloadscensio:itemOreLead",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.12,
       "meshLevel": 4
     },
     {
@@ -230,7 +229,7 @@
         "name": "exnihiloadscensio:itemOreSilver",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.02,
       "meshLevel": 2
     },
     {
@@ -238,7 +237,7 @@
         "name": "exnihiloadscensio:itemOreSilver",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.05,
       "meshLevel": 3
     },
     {
@@ -246,7 +245,7 @@
         "name": "exnihiloadscensio:itemOreSilver",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.07,
       "meshLevel": 4
     },
     {
@@ -254,7 +253,7 @@
         "name": "exnihiloadscensio:itemOreNickel",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.05,
       "meshLevel": 2
     },
     {
@@ -262,7 +261,7 @@
         "name": "exnihiloadscensio:itemOreNickel",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.1,
       "meshLevel": 3
     },
     {
@@ -270,7 +269,7 @@
         "name": "exnihiloadscensio:itemOreNickel",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.13,
       "meshLevel": 4
     },
     {
@@ -278,7 +277,7 @@
         "name": "exnihiloadscensio:itemOreUranium",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.02,
       "meshLevel": 2
     },
     {
@@ -286,7 +285,7 @@
         "name": "exnihiloadscensio:itemOreUranium",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.04,
       "meshLevel": 3
     },
     {
@@ -294,31 +293,47 @@
         "name": "exnihiloadscensio:itemOreUranium",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.06,
       "meshLevel": 4
     },
     {
       "drop": {
-        "name": "exnihiloadscensio:itemOreDraconium",
+        "name": "forestry:apatite",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.06,
       "meshLevel": 2
     },
     {
       "drop": {
-        "name": "exnihiloadscensio:itemOreDraconium",
+        "name": "mysticalagriculture:prosperity_shard",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.01,
       "meshLevel": 3
     },
     {
       "drop": {
-        "name": "exnihiloadscensio:itemOreDraconium",
+        "name": "mysticalagriculture:prosperity_shard",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.015,
+      "meshLevel": 4
+    },
+    {
+      "drop": {
+        "name": "appliedenergistics2:material",
+        "meta": 0
+      },
+      "chance": 0.05,
+      "meshLevel": 4
+    },
+    {
+      "drop": {
+        "name": "appliedenergistics2:material",
+        "meta": 1
+      },
+      "chance": 0.01,
       "meshLevel": 4
     }
   ],
@@ -548,7 +563,50 @@
       },
       "chance": 0.05,
       "meshLevel": 1
+    },
+
+
+    {
+      "drop": {
+        "name": "actuallyadditions:itemCoffeeSeed",
+        "meta": 0
+      },
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "actuallyadditions:itemRiceSeed",
+        "meta": 0
+      },
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "actuallyadditions:itemCanolaSeed",
+        "meta": 0
+      },
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "actuallyadditions:itemFlaxSeed",
+        "meta": 0
+      },
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "immersiveengineering:seed",
+        "meta": 0
+      },
+      "chance": 0.05,
+      "meshLevel": 1
     }
+
   ],
   "exnihiloadscensio:blockDust:0": [
     {
@@ -593,6 +651,14 @@
     },
     {
       "drop": {
+        "name": "minecraft:glowstone_dust",
+        "meta": 0
+      },
+      "chance": 0.08,
+      "meshLevel": 4
+    },
+    {
+      "drop": {
         "name": "minecraft:blaze_powder",
         "meta": 0
       },
@@ -601,11 +667,59 @@
     },
     {
       "drop": {
+        "name": "minecraft:blaze_powder",
+        "meta": 0
+      },
+      "chance": 0.07,
+      "meshLevel": 4
+    },
+    {
+      "drop": {
         "name": "quantumflux:graphiteDust",
         "meta": 0
       },
       "chance": 0.01,
+      "meshLevel": 4
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:inferium_essence",
+        "meta": 0
+      },
+      "chance": 0.025,
       "meshLevel": 3
+    },
+    {
+      "drop": {
+        "name": "mysticalagriculture:inferium_essence",
+        "meta": 0
+      },
+      "chance": 0.035,
+      "meshLevel": 4
+    },
+    {
+      "drop": {
+        "name": "appliedenergistics2:material",
+        "meta": 2
+      },
+      "chance": 0.05,
+      "meshLevel": 4
+    },
+    {
+      "drop": {
+        "name": "extrautils2:Ingredients",
+        "meta": 0
+      },
+      "chance": 0.02,
+      "meshLevel": 3
+    },
+    {
+      "drop": {
+        "name": "extrautils2:Ingredients",
+        "meta": 0
+      },
+      "chance": 0.03,
+      "meshLevel": 4
     }
   ],
   "minecraft:soul_sand:0": [
@@ -664,7 +778,7 @@
         "name": "exnihiloadscensio:itemOreCobalt",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.02,
       "meshLevel": 2
     },
     {
@@ -672,7 +786,7 @@
         "name": "exnihiloadscensio:itemOreCobalt",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.03,
       "meshLevel": 3
     },
     {
@@ -680,7 +794,7 @@
         "name": "exnihiloadscensio:itemOreCobalt",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.04,
       "meshLevel": 4
     },
     {
@@ -688,7 +802,7 @@
         "name": "exnihiloadscensio:itemOreArdite",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.02,
       "meshLevel": 2
     },
     {
@@ -696,7 +810,7 @@
         "name": "exnihiloadscensio:itemOreArdite",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.03,
       "meshLevel": 3
     },
     {
@@ -704,7 +818,7 @@
         "name": "exnihiloadscensio:itemOreArdite",
         "meta": 0
       },
-      "chance": 0.1,
+      "chance": 0.04,
       "meshLevel": 4
     }
   ],
@@ -714,8 +828,50 @@
         "name": "exnihiloadscensio:itemOreDraconium",
         "meta": 0
       },
-      "chance": 0.2,
+      "chance": 0.04,
       "meshLevel": 4
+    },
+    {
+      "drop": {
+        "name": "minecraft:chorus_flower",
+        "meta": 0
+      },
+      "chance": 0.05,
+      "meshLevel": 1
+    }
+  ],
+  "tconstruct:slime_congealed:0": [
+    {
+      "drop": {
+        "name": "tconstruct:slime_sapling",
+        "meta": 0
+      },
+      "chance": 0.06,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "tconstruct:slime_sapling",
+        "meta": 1
+      },
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "tconstruct:slime_sapling",
+        "meta": 2
+      },
+      "chance": 0.04,
+      "meshLevel": 1
+    },
+    {
+      "drop": {
+        "name": "tconstruct:edible",
+        "meta": 1
+      },
+      "chance": 0.15,
+      "meshLevel": 1
     }
   ]
 }

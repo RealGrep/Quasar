@@ -1,0 +1,124 @@
+<!--
+  Custom recipes that will not be over written by Ender IO are added here. Examples of recipes can be found in the
+  AlloySmelterRecipes_Core.xml and general format documentation in the SAGMillRecipes_Core/User.
+
+  As well as adding custom recipes to the operation of the Alloy Smelter, a vanilla furnace recipe can be controlled.
+  It can be disabled completely by simply adding this line:
+
+  <vanillaFurnaceRecipes enabled="false" />
+
+  It is also possible to selectively disable vanilla furnace recipes. The following example disables the smelting of iron
+  ingots, ender pearls, and any form of iron ore registered in the ore dictionary.
+
+  <vanillaFurnaceRecipes>
+
+	<exclude>
+      <itemStack modID="minecraft" itemName="iron_ingot" />
+      <itemStack modID="minecraft" itemName="ender_pearl" />
+      <itemStack oreDictionary="oreIron" />
+    </exclude>
+
+  </vanillaFurnaceRecipes>
+
+  Add this line to disable the creation of TE alloys using the Alloy Smelter.
+
+  <recipeGroup name="Thermal Expansion" enabled="false" />
+
+-->
+
+<AlloySmelterRecipes>
+  <recipeGroup name="Forestry" >
+    <recipe name="Forest Hive" energyCost="30000" >
+      <input>
+        <itemStack oreDictionary="plankTreatedWood" />
+        <itemStack modID="minecraft" itemName="leaves" itemMeta="0" number="10" />
+        <itemStack modID="minecraft" itemName="sapling" itemMeta="0" />
+      </input>
+      <output>
+        <itemStack modID="forestry" itemName="beehives" itemMeta="0" number="1"  />
+      </output>
+    </recipe>
+    <recipe name="Meadows Hive" energyCost="30000" >
+      <input>
+        <itemStack oreDictionary="plankTreatedWood" />
+        <itemStack modID="minecraft" itemName="tallgrass" itemMeta="1" />
+        <itemStack oreDictionary="flowerYellow" />
+      </input>
+      <output>
+        <itemStack modID="forestry" itemName="beehives" itemMeta="1" number="1"  />
+      </output>
+    </recipe>
+    <recipe name="Modest Hive" energyCost="30000" >
+      <input>
+        <itemStack oreDictionary="plankTreatedWood" />
+        <itemStack oreDictionary="sandstone" number="10" />
+      </input>
+      <output>
+        <itemStack modID="forestry" itemName="beehives" itemMeta="2" number="1"  />
+      </output>
+    </recipe>
+    <recipe name="Tropical Hive" energyCost="30000" >
+      <input>
+        <itemStack oreDictionary="plankTreatedWood" />
+        <itemStack modID="minecraft" itemName="leaves" itemMeta="3" number="10" />
+        <itemStack modID="minecraft" itemName="sapling" itemMeta="3" number="1" />
+      </input>
+      <output>
+        <itemStack modID="forestry" itemName="beehives" itemMeta="3" number="1"  />
+      </output>
+    </recipe>
+    <recipe name="Ender Hive" energyCost="30000" >
+      <input>
+        <itemStack oreDictionary="plankTreatedWood" />
+        <itemStack oreDictionary="endstone" number="10" />
+        <itemStack oreDictionary="enderpearl" />
+      </input>
+      <output>
+        <itemStack modID="forestry" itemName="beehives" itemMeta="4" number="1"  />
+      </output>
+    </recipe>
+    <recipe name="Wintry Hive" energyCost="30000" >
+      <input>
+        <itemStack oreDictionary="plankTreatedWood" />
+        <itemStack oreDictionary="blockSnow" />
+        <itemStack modID="minecraft" itemName="snowball" />
+      </input>
+      <output>
+        <itemStack modID="forestry" itemName="beehives" itemMeta="5" number="1"  />
+      </output>
+    </recipe>
+    <recipe name="Marshy Hive" energyCost="30000" >
+      <input>
+        <itemStack oreDictionary="plankTreatedWood" />
+        <itemStack modID="minecraft" itemName="waterlily" />
+        <itemStack modID="minecraft" itemName="brown_mushroom" />
+      </input>
+      <output>
+        <itemStack modID="forestry" itemName="beehives" itemMeta="6" number="1"  />
+      </output>
+    </recipe>
+    <recipe name="Rock Hive" energyCost="30000" >
+      <input>
+        <itemStack oreDictionary="plankTreatedWood" />
+        <itemStack oreDictionary="gemDiamond" />
+        <itemStack modID="minecraft" itemName="stone" itemMeta="0" number="10" />
+      </input>
+      <output>
+        <itemStack modID="morebees" itemName="hive" itemMeta="0" number="1"  />
+      </output>
+    </recipe>
+  </recipeGroup>
+
+  <recipeGroup name="Harvestcraft" >
+    <recipe name="Harvestcraft Hive" energyCost="30000" >
+      <input>
+        <itemStack oreDictionary="plankTreatedWood" />
+        <itemStack modID="minecraft" itemName="sugar" />
+      </input>
+      <output>
+        <itemStack modID="harvestcraft" itemName="beehive" itemMeta="0" number="1"  />
+      </output>
+    </recipe>
+  </recipeGroup>
+
+</AlloySmelterRecipes>

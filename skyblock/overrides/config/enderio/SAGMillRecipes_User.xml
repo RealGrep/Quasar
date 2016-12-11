@@ -99,23 +99,69 @@
 <SAGMillRecipes>
 
   <recipeGroup name="AddleGroup" >
+    <!-- Immersive Engineering -->
     <recipe name="UraniumToDust" energyCost="3600" >
-        <input>
-          <itemStack modID="immersiveengineering" itemName="ore" itemMeta="5" />
-        </input>
-        <output>
-          <itemStack modID="immersiveengineering" itemName="metal" itemMeta="14" number="2" />
-        </output>
-      </recipe>
-
+      <input>
+        <itemStack modID="immersiveengineering" itemName="ore" itemMeta="5" />
+      </input>
+      <output>
+        <itemStack modID="immersiveengineering" itemName="metal" itemMeta="14" number="2" />
+      </output>
+    </recipe>
     <recipe name="UraniumIngotToDust" energyCost="2400" >
-        <input>
-          <itemStack modID="immersiveengineering" itemName="metal" itemMeta="5" />
-        </input>
-        <output>
-          <itemStack modID="immersiveengineering" itemName="metal" itemMeta="14" />
-        </output>
-      </recipe>
+      <input>
+        <itemStack modID="immersiveengineering" itemName="metal" itemMeta="5" />
+      </input>
+      <output>
+        <itemStack modID="immersiveengineering" itemName="metal" itemMeta="14" />
+      </output>
+    </recipe>
+
+    <!-- Draconic Evolution -->
+    <recipe name="DraconiumOreToDust" energyCost="3600" >
+      <input>
+        <itemStack modID="draconicevolution" itemName="draconium_ore" />
+      </input>
+      <output>
+        <itemStack modID="draconicevolution" itemName="draconium_dust" number="2" />
+      </output>
+    </recipe>
+    <recipe name="DraconiumIngotToDust" energyCost="2400" >
+      <input>
+        <itemStack modID="draconicevolution" itemName="draconium_ore" />
+      </input>
+      <output>
+        <itemStack modID="draconicevolution" itemName="draconium_dust" number="1" />
+      </output>
+    </recipe>
+
+    <!-- Mystical Agriculture -->
+    <recipe name="ProsperityOreToShard" energyCost="3600" >
+      <input>
+        <itemStack modID="mysticalagriculture" itemName="prosperity_ore" />
+      </input>
+      <output>
+        <itemStack modID="mysticalagriculture" itemName="prosperity_shard" number="2" />
+      </output>
+    </recipe>
+    <recipe name="InferiumOreToEssence" energyCost="3600" >
+      <input>
+        <itemStack modID="mysticalagriculture" itemName="inferium_ore" />
+      </input>
+      <output>
+        <itemStack modID="mysticalagriculture" itemName="inferium_essence" number="2" />
+      </output>
+    </recipe>
+
+    <!-- RFTools -->
+    <recipe name="DimensionalShardOreToShards" energyCost="3600" >
+      <input>
+        <itemStack modID="rftools" itemName="dimensional_shard_ore" />
+      </input>
+      <output>
+        <itemStack modID="rftools" itemName="dimensional_shard" number="2" />
+      </output>
+    </recipe>
   </recipeGroup>
 
 </SAGMillRecipes>

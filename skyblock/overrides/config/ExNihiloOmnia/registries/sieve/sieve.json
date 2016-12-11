@@ -109,7 +109,7 @@
           "id": "tconstruct:edible",
           "meta": 1,
           "amount": 1,
-          "baseChance": 8
+          "baseChance": 15
         }
       ]
     }

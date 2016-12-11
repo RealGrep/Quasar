@@ -61,3 +61,15 @@ URL: https://minecraft.curseforge.com/projects/antique-atlas http://www.minecraf
 GPLv3 or later https://github.com/Hunternif/AntiqueAtlas/blob/master/LICENSE
 http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-antique-atlas
 You're free to play, use the source code of my mods, include them in mod packs as long as you give me credit (link to this post) and don't make money off it (adf.ly, custom paid downloads etc). Don't post individual mod downloads on other websites, link back to this post or CurseForge!
+
+
+Dynamic Surroundings
+Owner: OreCruncher
+URL: https://minecraft.curseforge.com/projects/dynamic-surroundings
+
+MIT License https://minecraft.curseforge.com/projects/dynamic-surroundings/license
+Modpacks
+Dynamic Surroundings is licensed MIT.  This means that you are free to include in modpacks and there are no requirements about giving credit or linking pack to any page.  However, if you feel compelled to give credit I won't mind. :)
+
+
+
