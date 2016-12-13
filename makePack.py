@@ -6,7 +6,7 @@ import subprocess
 import packbuilder as pb
 
 PACK_DIR="/home/michel/Quasar"
-VERSION = "v0.6.0"
+VERSION = "v0.6.1"
 
 class cd:
     """Context manager for changing the current working directory"""

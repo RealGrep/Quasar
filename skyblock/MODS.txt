@@ -60,3 +60,25 @@ Custom License https://minecraft.curseforge.com/projects/lootbags/license
 Modpacks:
 You can use this in modpacks provided that I am credited and either this page or a link to my Minecraft Forum is included in the modpack information. 
 
+
+Dimensional Cake
+Owner: insaneau
+URL: https://minecraft.curseforge.com/projects/dimensional-cake
+
+MIT License https://minecraft.curseforge.com/projects/dimensional-cake/license
+
+
+Chickens
+Owner: SetyCz
+URL: https://minecraft.curseforge.com/projects/chickens
+
+MIT License https://minecraft.curseforge.com/projects/chickens/license
+Feel free to use it in your modpack
+
+
+More Chickens
+Owner: GenDeathrow
+URL: https://minecraft.curseforge.com/projects/more-chickens
+
+MIT License https://minecraft.curseforge.com/projects/more-chickens/license
+
